@@ -1,0 +1,41 @@
+{
+      "0x25caB9Fa91058b4D6BDeC9756E9CD66e69511017": {
+         "index": 0,
+         "amount": "0x01158e460913d00000",
+         "proof": [
+            "0xdac38dc71a5ade232ffd0d0e3d5d4817e71ba119da5cd775c5e5dd7510017e26"
+         ],
+         "flags": {
+            "isSOCKS": false,
+            "isLP": false,
+            "isUser": true
+         }
+      },
+      "0x543f1182b8753FD7556E573CEf91aa1F9e7e8Bd7": {
+         "index": 1,
+         "amount": "0x01158e460913d00000",
+         "proof": [
+            "0x6b86210bf9d7277db1f90b45214fb9e0ea02bcc3cfe13dcf5106a0c8cee818d9",
+            "0xe5d6547c65ed98b05fc8b10756057a175f28c726b17599c50697d32bf97721a2"
+         ],
+         "flags": {
+            "isSOCKS": false,
+            "isLP": false,
+            "isUser": true
+         }
+      },
+      "0xe9Bd9C3E3b514120CebaB87D6F9A2Fd9A9367980": {
+         "index": 2,
+         "amount": "0x01158e460913d00000",
+         "proof": [
+            "0xac6a6b61d40b5e2f225be1ff9f83bdce57682ea8acf25a3f6e80f94dfc86498b",
+            "0xe5d6547c65ed98b05fc8b10756057a175f28c726b17599c50697d32bf97721a2"
+         ],
+         "flags": {
+            "isSOCKS": false,
+            "isLP": false,
+            "isUser": true
+         }
+      }
+   
+}
